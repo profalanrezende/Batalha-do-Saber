@@ -1,0 +1,2406 @@
+{
+ "rodada": "rodada 02",
+ "formato": "m: P=Português M=Matemática H=História G=Geografia C=Ciências | o: 4 alternativas, a 1ª é a CORRETA (o jogo embaralha) | ctx: trecho opcional | e: explicação curta",
+ "perguntas": [
+  {
+   "m": "P",
+   "ctx": "\"Naquela noite, o vento uivava e as janelas rangiam sozinhas.\"",
+   "q": "Que sensação o autor quer causar no leitor?",
+   "o": [
+    "Medo e suspense",
+    "Alegria e festa",
+    "Sono e calma",
+    "Raiva e disputa"
+   ],
+   "e": "O ambiente sombrio e os sons estranhos criam tensão."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "O conjunto de fatos que acontecem em uma história chama-se...",
+   "o": [
+    "enredo",
+    "moral",
+    "manchete",
+    "vocativo"
+   ],
+   "e": "Enredo é tudo o que acontece na narrativa."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual parte da história apresenta o problema que mexe com os personagens?",
+   "o": [
+    "Conflito",
+    "Desfecho",
+    "Situação inicial",
+    "Título"
+   ],
+   "e": "Situação inicial → conflito → clímax → desfecho."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual parte da história mostra a solução do problema e o final?",
+   "o": [
+    "Desfecho",
+    "Conflito",
+    "Clímax",
+    "Situação inicial"
+   ],
+   "e": "O desfecho vem depois do clímax e encerra a história."
+  },
+  {
+   "m": "P",
+   "ctx": "Os meninos entraram em uma casa abandonada no alto do morro.",
+   "q": "Qual elemento da narrativa indica \"uma casa abandonada no alto do morro\"?",
+   "o": [
+    "O lugar (espaço)",
+    "O tempo",
+    "O narrador",
+    "O enredo"
+   ],
+   "e": "O lugar diz onde a história acontece."
+  },
+  {
+   "m": "P",
+   "ctx": "A história começa \"numa madrugada fria de inverno\".",
+   "q": "Qual elemento da narrativa é \"numa madrugada fria de inverno\"?",
+   "o": [
+    "O tempo",
+    "O lugar (espaço)",
+    "O personagem",
+    "A moral"
+   ],
+   "e": "O tempo diz quando a história acontece."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual narrador conta a história de fora, usando \"ele\" e \"ela\"?",
+   "o": [
+    "Narrador observador",
+    "Narrador-personagem",
+    "Personagem principal",
+    "O leitor"
+   ],
+   "e": "O observador não participa dos fatos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Um conto sobre família, escola e amigos, com fatos simples da vida diária, é um conto...",
+   "o": [
+    "do cotidiano",
+    "de terror",
+    "de ficção científica",
+    "de aventura espacial"
+   ],
+   "e": "O conto do cotidiano mostra situações simples cheias de emoção."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "O que vai crescendo aos poucos em um conto de suspense, com pistas como o ranger da porta e o silêncio?",
+   "o": [
+    "A tensão",
+    "A alegria",
+    "A velocidade",
+    "O volume da música"
+   ],
+   "e": "No suspense, as pistas aumentam a tensão."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Como termina um conto com final de impacto?",
+   "o": [
+    "No momento de maior tensão, deixando o leitor imaginando o resto",
+    "Com uma receita de bolo",
+    "Com uma lista de compras",
+    "Com o endereço do autor"
+   ],
+   "e": "O final de impacto deixa o leitor imaginando o que vem depois."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "O que aparece no final de uma fábula?",
+   "o": [
+    "Uma moral",
+    "Uma receita",
+    "Uma manchete",
+    "Um convite"
+   ],
+   "e": "A moral é o ensinamento da fábula."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Na fábula \"O Vento e o Sol\", quem venceu a disputa?",
+   "o": [
+    "O Sol, com sua gentileza",
+    "O Vento, com sua força",
+    "Os dois empataram",
+    "O viajante"
+   ],
+   "e": "A gentileza vence onde a força fracassa."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Uma fábula bem curta, também com moral, é chamada de...",
+   "o": [
+    "microfábula",
+    "manchete",
+    "bilhete",
+    "tirinha"
+   ],
+   "e": "A microfábula é uma fábula bem curta."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual balão tem o contorno feito de tracinhos?",
+   "o": [
+    "Balão de cochicho",
+    "Balão de fala",
+    "Balão de grito",
+    "Balão de pensamento"
+   ],
+   "e": "O contorno tracejado indica fala baixinha."
+  },
+  {
+   "m": "P",
+   "ctx": "Na tirinha, o menino espirra e aparece escrito: ATCHIM!",
+   "q": "Que som a palavra ATCHIM! imita?",
+   "o": [
+    "Um espirro",
+    "Um latido",
+    "Um trovão",
+    "Uma porta batendo"
+   ],
+   "e": "Onomatopeia é a palavra que imita um som."
+  },
+  {
+   "m": "P",
+   "ctx": "Na tirinha, aparece escrito: TOC TOC TOC!",
+   "q": "Qual som essa onomatopeia imita?",
+   "o": [
+    "Batidas na porta",
+    "Um choro",
+    "Um latido",
+    "Um trovão"
+   ],
+   "e": "TOC TOC imita batidas."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Os verbos \"coloque\", \"misture\" e \"adicione\" aparecem muito em qual tipo de texto?",
+   "o": [
+    "Texto instrucional",
+    "Fábula",
+    "Notícia",
+    "Conto de terror"
+   ],
+   "e": "O texto instrucional usa verbos no imperativo."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Quais são as duas partes de uma receita?",
+   "o": [
+    "Ingredientes e modo de preparo",
+    "Título e moral",
+    "Manchete e lide",
+    "Pergunta e resposta"
+   ],
+   "e": "Primeiro a lista do que usar, depois o passo a passo."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Como se chama o título de uma notícia?",
+   "o": [
+    "Manchete",
+    "Moral",
+    "Balão",
+    "Vocativo"
+   ],
+   "e": "A manchete resume o fato em poucas palavras."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual texto é organizado em perguntas e respostas entre duas pessoas?",
+   "o": [
+    "Entrevista",
+    "Bilhete",
+    "Anúncio",
+    "Fábula"
+   ],
+   "e": "Na entrevista, o entrevistador pergunta (P) e o entrevistado responde (R)."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual destas partes pertence a uma carta de reclamação?",
+   "o": [
+    "Destinatário, problema e pedido de solução",
+    "Ingredientes e modo de preparo",
+    "Moral da história",
+    "Balões de fala"
+   ],
+   "e": "A carta relata um problema e pede que seja resolvido."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual texto é uma mensagem curta e informal, com destinatário, despedida e assinatura?",
+   "o": [
+    "Bilhete",
+    "Notícia",
+    "Manual",
+    "Entrevista"
+   ],
+   "e": "O bilhete é curto e informal."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual texto quer convencer o leitor a comprar, usando frases como \"Compre já!\"?",
+   "o": [
+    "Anúncio",
+    "Bilhete",
+    "Notícia",
+    "Receita"
+   ],
+   "e": "O anúncio usa título chamativo para vender."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Em \"Comprei maçã, uva e pera\", a vírgula serve para separar...",
+   "o": [
+    "os itens de uma lista",
+    "o sujeito do verbo",
+    "o fim da frase",
+    "uma fala"
+   ],
+   "e": "A vírgula separa os itens de uma enumeração."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o predicado da frase \"O leão dormia na sombra da árvore\"?",
+   "o": [
+    "dormia na sombra da árvore",
+    "O leão",
+    "na sombra",
+    "O leão dormia"
+   ],
+   "e": "O predicado diz tudo o que se fala do sujeito e contém o verbo."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra está no passado?",
+   "o": [
+    "comeu",
+    "come",
+    "comerá",
+    "comer"
+   ],
+   "e": "Passado é a ação que já aconteceu."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é um substantivo?",
+   "o": [
+    "sentimento",
+    "correr",
+    "bonito",
+    "muito"
+   ],
+   "e": "Substantivo dá nome a seres, objetos, lugares e sentimentos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o feminino de \"ator\"?",
+   "o": [
+    "atriz",
+    "atora",
+    "atrisa",
+    "atriza"
+   ],
+   "e": "Ator → atriz."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o plural de \"animal\"?",
+   "o": [
+    "animais",
+    "animals",
+    "animães",
+    "animales"
+   ],
+   "e": "Palavras terminadas em -al trocam por -ais."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Os artigos \"o\", \"a\", \"os\" e \"as\" são...",
+   "o": [
+    "definidos",
+    "indefinidos",
+    "pronomes",
+    "verbos"
+   ],
+   "e": "Os artigos definidos indicam algo específico."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual pronome pessoal substitui \"Pedro e Maria\"?",
+   "o": [
+    "Eles",
+    "Nós",
+    "Eu",
+    "Tu"
+   ],
+   "e": "Pedro e Maria são terceira pessoa do plural."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem significado parecido com \"bonito\"?",
+   "o": [
+    "belo",
+    "feio",
+    "triste",
+    "grande"
+   ],
+   "e": "Belo e bonito são sinônimos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem significado oposto ao de \"alegre\"?",
+   "o": [
+    "triste",
+    "feliz",
+    "contente",
+    "animado"
+   ],
+   "e": "Alegre e triste são antônimos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é oxítona?",
+   "o": [
+    "café",
+    "lápis",
+    "lâmpada",
+    "casa"
+   ],
+   "e": "Em café, a última sílaba é a mais forte."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem ditongo?",
+   "o": [
+    "pai",
+    "saída",
+    "Uruguai",
+    "rua"
+   ],
+   "e": "Em pai, as vogais a e i ficam na mesma sílaba."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Em qual palavra o QU tem som de K?",
+   "o": [
+    "queijo",
+    "quando",
+    "quatro",
+    "quase"
+   ],
+   "e": "Antes de e ou i, o QU soa como K."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra deve ser escrita com U no final?",
+   "o": [
+    "mingau",
+    "papel",
+    "animal",
+    "sol"
+   ],
+   "e": "Mingau termina com som de U escrito com U."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra foi formada com o sufixo -oso?",
+   "o": [
+    "carinhoso",
+    "rapidez",
+    "viagem",
+    "beleza"
+   ],
+   "e": "Carinho + oso = carinhoso."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra está escrita corretamente?",
+   "o": [
+    "pássaro",
+    "pasaro",
+    "paçaro",
+    "passsaro"
+   ],
+   "e": "Entre vogais, o som de S forte se escreve SS."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem acento circunflexo?",
+   "o": [
+    "tênis",
+    "fácil",
+    "café",
+    "lápis"
+   ],
+   "e": "O circunflexo marca vogal fechada: â, ê, ô."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "No número 47.362, qual é o valor relativo do algarismo 4?",
+   "o": [
+    "40.000",
+    "4.000",
+    "400",
+    "4"
+   ],
+   "e": "O 4 está na dezena de milhar: vale 40.000."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos algarismos usamos no Sistema de Numeração Decimal?",
+   "o": [
+    "10",
+    "9",
+    "12",
+    "100"
+   ],
+   "e": "Os algarismos vão de 0 a 9."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "A decomposição por multiplicação de 3.452 é:",
+   "o": [
+    "(3 × 1.000) + (4 × 100) + (5 × 10) + (2 × 1)",
+    "(3 × 100) + (4 × 10) + (5 × 1) + (2 × 1.000)",
+    "3 + 4 + 5 + 2",
+    "(3 × 10.000) + (4 × 1.000) + (5 × 100) + (2 × 10)"
+   ],
+   "e": "Cada algarismo é multiplicado pelo valor da sua ordem."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o sucessor de 9.999?",
+   "o": [
+    "10.000",
+    "9.998",
+    "10.999",
+    "99.999"
+   ],
+   "e": "Sucessor é o número + 1."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o antecessor de 10.000?",
+   "o": [
+    "9.999",
+    "10.001",
+    "9.000",
+    "9.990"
+   ],
+   "e": "Antecessor é o número – 1."
+  },
+  {
+   "m": "M",
+   "ctx": "Observe a sequência: 9.000, 8.500, 8.000, 7.500...",
+   "q": "Qual é o próximo número?",
+   "o": [
+    "7.000",
+    "7.250",
+    "8.000",
+    "6.500"
+   ],
+   "e": "A sequência diminui de 500 em 500."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual símbolo completa: 2.718 ___ 2.781?",
+   "o": [
+    "<",
+    ">",
+    "=",
+    "+"
+   ],
+   "e": "2.718 é menor que 2.781."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual igualdade é falsa?",
+   "o": [
+    "5 + 3 = 4 + 5",
+    "5 + 3 = 4 + 4",
+    "6 + 2 = 7 + 1",
+    "10 = 2 + 8"
+   ],
+   "e": "De um lado vale 8 e do outro vale 9."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Se 10 + 3 = 13, então 10 + 3 + 5 é igual a:",
+   "o": [
+    "13 + 5",
+    "13 + 3",
+    "13 – 5",
+    "10 + 5"
+   ],
+   "e": "Somar o mesmo número dos dois lados mantém a igualdade."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Na conta 25 + 17 = 42, como se chama o número 42?",
+   "o": [
+    "Soma",
+    "Parcela",
+    "Resto",
+    "Fator"
+   ],
+   "e": "O resultado da adição é a soma ou total."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Em 9 – 4 = 5, como se chama o número 9?",
+   "o": [
+    "Minuendo",
+    "Subtraendo",
+    "Resto",
+    "Divisor"
+   ],
+   "e": "Minuendo – subtraendo = resto."
+  },
+  {
+   "m": "M",
+   "ctx": "Ana tinha 30 figurinhas e perdeu 12 no recreio.",
+   "q": "Quantas figurinhas restaram?",
+   "o": [
+    "18",
+    "42",
+    "28",
+    "20"
+   ],
+   "e": "Perder indica subtração: 30 – 12 = 18."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é o dobro de 25?",
+   "o": [
+    "50",
+    "5",
+    "75",
+    "100"
+   ],
+   "e": "Dobro é multiplicar por 2."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 3 × 4?",
+   "o": [
+    "12",
+    "7",
+    "34",
+    "1"
+   ],
+   "e": "A multiplicação é uma soma de parcelas iguais: 4 + 4 + 4."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Na divisão 24 ÷ 4 = 6, como se chama o número 24?",
+   "o": [
+    "Dividendo",
+    "Divisor",
+    "Quociente",
+    "Resto"
+   ],
+   "e": "Dividendo ÷ divisor = quociente."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Uma divisão exata é aquela em que o resto é...",
+   "o": [
+    "zero",
+    "um",
+    "igual ao divisor",
+    "maior que o quociente"
+   ],
+   "e": "Sem sobra, a divisão é exata."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma escola tem 120 lápis para repartir igualmente entre 4 turmas.",
+   "q": "Quantos lápis cada turma recebe?",
+   "o": [
+    "30",
+    "40",
+    "24",
+    "480"
+   ],
+   "e": "120 ÷ 4 = 30."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Se 6 × 4 = 24, então 24 ÷ 6 é igual a:",
+   "o": [
+    "4",
+    "3",
+    "18",
+    "30"
+   ],
+   "e": "Multiplicação e divisão são operações inversas."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é (10 + 5) × 2?",
+   "o": [
+    "30",
+    "20",
+    "25",
+    "15"
+   ],
+   "e": "Primeiro resolvemos o parêntese: 15 × 2 = 30."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 20 – (3 × 4)?",
+   "o": [
+    "8",
+    "68",
+    "17",
+    "12"
+   ],
+   "e": "3 × 4 = 12 e 20 – 12 = 8."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 100 ÷ (2 + 3)?",
+   "o": [
+    "20",
+    "52",
+    "50",
+    "25"
+   ],
+   "e": "No parêntese, 2 + 3 = 5; depois 100 ÷ 5 = 20."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Um ângulo maior que o ângulo reto é chamado de...",
+   "o": [
+    "obtuso",
+    "agudo",
+    "raso",
+    "pontudo"
+   ],
+   "e": "Obtuso é mais aberto que o reto."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Os ponteiros de um relógio às 9 horas formam um ângulo...",
+   "o": [
+    "reto",
+    "agudo",
+    "obtuso",
+    "nulo"
+   ],
+   "e": "Às 3 e às 9 horas o ângulo é de 90°."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos lados tem um hexágono?",
+   "o": [
+    "6",
+    "5",
+    "4",
+    "8"
+   ],
+   "e": "Hexágono tem 6 lados."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantas faces quadradas tem um cubo?",
+   "o": [
+    "6",
+    "4",
+    "8",
+    "12"
+   ],
+   "e": "O cubo tem 6 faces quadradas."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto mede o ângulo reto?",
+   "o": [
+    "90°",
+    "45°",
+    "180°",
+    "60°"
+   ],
+   "e": "O ângulo reto mede 90°."
+  },
+  {
+   "m": "M",
+   "ctx": "Na malha quadriculada, a figura pintada tem 6 quadradinhos de 2 cm² cada.",
+   "q": "Qual é a área da figura?",
+   "o": [
+    "12 cm²",
+    "8 cm²",
+    "6 cm²",
+    "24 cm²"
+   ],
+   "e": "6 × 2 = 12 cm²."
+  },
+  {
+   "m": "M",
+   "ctx": "O contorno de uma figura tem 10 linhas de 3 cm cada.",
+   "q": "Qual é o perímetro da figura?",
+   "o": [
+    "30 cm",
+    "13 cm",
+    "30 cm²",
+    "60 cm"
+   ],
+   "e": "10 × 3 = 30 cm."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "O perímetro de uma figura é medido em...",
+   "o": [
+    "cm ou m",
+    "cm² ou m²",
+    "kg ou g",
+    "L ou mL"
+   ],
+   "e": "Perímetro é uma medida de comprimento."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos centímetros há em 2 metros?",
+   "o": [
+    "200 cm",
+    "20 cm",
+    "2.000 cm",
+    "2 cm"
+   ],
+   "e": "1 m = 100 cm."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos gramas há em 1 quilograma?",
+   "o": [
+    "1.000 g",
+    "100 g",
+    "10 g",
+    "10.000 g"
+   ],
+   "e": "1 kg = 1.000 g."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos minutos tem 1 hora?",
+   "o": [
+    "60",
+    "100",
+    "30",
+    "24"
+   ],
+   "e": "1 hora = 60 minutos."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos dias tem 1 semana?",
+   "o": [
+    "7",
+    "5",
+    "10",
+    "12"
+   ],
+   "e": "Uma semana tem 7 dias."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Que horas são 18h em um relógio de ponteiros?",
+   "o": [
+    "6 horas da tarde",
+    "8 horas da manhã",
+    "6 horas da manhã",
+    "8 horas da noite"
+   ],
+   "e": "Depois do meio-dia, soma-se 12 às horas: 18 – 12 = 6."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quais são as 4 estações do ano?",
+   "o": [
+    "Primavera, verão, outono e inverno",
+    "Chuva, seca, frio e calor",
+    "Janeiro, abril, julho e outubro",
+    "Manhã, tarde, noite e madrugada"
+   ],
+   "e": "As estações se repetem a cada ano."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é a moeda do Brasil?",
+   "o": [
+    "Real",
+    "Dólar",
+    "Peso",
+    "Euro"
+   ],
+   "e": "Usamos cédulas e moedas do real (R$)."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual tabela organiza dados ao mesmo tempo por linhas e colunas, como Turma × Turno?",
+   "o": [
+    "Tabela de dupla entrada",
+    "Tabela simples",
+    "Gráfico de barras",
+    "Reta numérica"
+   ],
+   "e": "Na dupla entrada, o dado fica no cruzamento da linha com a coluna."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Em um gráfico de barras, a barra mais baixa representa...",
+   "o": [
+    "o menor valor",
+    "o maior valor",
+    "o valor médio",
+    "o título"
+   ],
+   "e": "Quanto mais baixa a barra, menor o valor."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "O que devemos fazer antes de responder uma questão sobre tabelas ou gráficos?",
+   "o": [
+    "Ler o título, os cabeçalhos e as legendas",
+    "Escolher a maior barra",
+    "Somar todos os números",
+    "Pular a leitura"
+   ],
+   "e": "Os títulos explicam o que os dados mostram."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em qual continente surgiu o Homo sapiens, há cerca de 200 mil anos?",
+   "o": [
+    "África",
+    "Europa",
+    "América",
+    "Oceania"
+   ],
+   "e": "Nossa espécie surgiu na África."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como os primeiros grupos humanos conseguiam alimento?",
+   "o": [
+    "Caçando, pescando e coletando frutos",
+    "Plantando e colhendo",
+    "Comprando no mercado",
+    "Criando gado em fazendas"
+   ],
+   "e": "Eles eram caçadores-coletores."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como são chamados os grupos que passaram a viver fixos em um só lugar?",
+   "o": [
+    "Sedentários",
+    "Nômades",
+    "Navegantes",
+    "Mercadores"
+   ],
+   "e": "Com a agricultura, os grupos se fixaram."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como se chama o que sobrava da produção e podia ser trocado?",
+   "o": [
+    "Excedente",
+    "Escambo",
+    "Imposto",
+    "Moeda"
+   ],
+   "e": "O excedente deu origem às trocas."
+  },
+  {
+   "m": "H",
+   "ctx": "Um agricultor troca sacos de milho por peixes de um pescador.",
+   "q": "Que tipo de troca é essa?",
+   "o": [
+    "Escambo",
+    "Compra com cartão",
+    "Pagamento com Pix",
+    "Cobrança de imposto"
+   ],
+   "e": "Escambo é a troca direta de produtos."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destas vantagens a moeda de metal trouxe em relação ao escambo?",
+   "o": [
+    "Era aceita por todos e fácil de transportar",
+    "Estragava rápido",
+    "Só servia para um produto",
+    "Era muito pesada"
+   ],
+   "e": "A moeda podia ser guardada e usada depois."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual é a ordem correta da linha do tempo do dinheiro?",
+   "o": [
+    "Escambo → objetos-moeda → moeda de metal → papel-moeda → dinheiro digital",
+    "Dinheiro digital → papel-moeda → escambo → moeda de metal",
+    "Moeda de metal → escambo → papel-moeda → objetos-moeda",
+    "Papel-moeda → escambo → dinheiro digital → moeda de metal"
+   ],
+   "e": "Cada forma de troca foi substituindo a anterior."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destas cidades italianas controlava rotas de comércio e criou os primeiros bancos?",
+   "o": [
+    "Veneza",
+    "Lisboa",
+    "Madri",
+    "Atenas"
+   ],
+   "e": "Veneza e Gênova dominavam o comércio."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "A Idade Média foi do século V ao século...",
+   "o": [
+    "XV",
+    "X",
+    "XX",
+    "III"
+   ],
+   "e": "A Idade Média durou cerca de mil anos."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes produtos a Rota da Seda levava da China para o Mediterrâneo?",
+   "o": [
+    "Seda e especiarias",
+    "Café e cacau",
+    "Milho e batata",
+    "Petróleo e ferro"
+   ],
+   "e": "Também levava papel, pólvora e porcelana."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que os produtos ficavam mais caros na Idade Média?",
+   "o": [
+    "Nobres e a Igreja cobravam impostos e pedágios",
+    "Havia poucos comerciantes ricos",
+    "Os produtos eram sempre importados",
+    "O dinheiro digital era caro"
+   ],
+   "e": "Os impostos aumentavam o preço."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes produtos chegou a valer mais que o ouro na Europa?",
+   "o": [
+    "A pimenta",
+    "O milho",
+    "A batata",
+    "O sal grosso"
+   ],
+   "e": "As especiarias eram muito valiosas."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que Portugal foi o pioneiro das Grandes Navegações?",
+   "o": [
+    "Era voltado para o Oceano Atlântico",
+    "Ficava no interior da Europa",
+    "Não tinha costa",
+    "Tinha muitos desertos"
+   ],
+   "e": "Sua posição favorecia a navegação pelo oceano."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quais instrumentos ajudavam as caravelas a se orientar no mar?",
+   "o": [
+    "Bússola e astrolábio",
+    "Telescópio e microscópio",
+    "Relógio e régua",
+    "Mapa digital e radar"
+   ],
+   "e": "A bússola mostra o norte e o astrolábio mede a posição das estrelas."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Cristóvão Colombo, que chegou à América em 1492, era natural de qual cidade?",
+   "o": [
+    "Gênova",
+    "Lisboa",
+    "Veneza",
+    "Madri"
+   ],
+   "e": "Colombo era genovês e navegava a serviço da Espanha."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "No Tratado de Tordesilhas, as terras a oeste da linha ficaram com qual país?",
+   "o": [
+    "Espanha",
+    "Portugal",
+    "França",
+    "Inglaterra"
+   ],
+   "e": "A leste ficaram com Portugal."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual foi o primeiro ponto do Brasil avistado pela frota de Cabral?",
+   "o": [
+    "Monte Pascoal",
+    "Pão de Açúcar",
+    "Cristo Redentor",
+    "Serra do Mar"
+   ],
+   "e": "Cabral avistou o Monte Pascoal, na Bahia."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Para onde a frota de Cabral estava indo quando chegou ao Brasil?",
+   "o": [
+    "Para as Índias",
+    "Para a África",
+    "Para a Inglaterra",
+    "Para a Austrália"
+   ],
+   "e": "A frota seguia para as Índias."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que muitos historiadores preferem \"chegada\" a \"descobrimento\"?",
+   "o": [
+    "Os indígenas já viviam aqui há milhares de anos",
+    "Cabral nunca chegou ao Brasil",
+    "Ninguém chegou antes do ano 1500 na Europa",
+    "O Brasil já era república"
+   ],
+   "e": "O território já era habitado."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes produtos americanos foi levado para a Europa após as navegações?",
+   "o": [
+    "Milho e batata",
+    "Café e cana",
+    "Trigo e uva",
+    "Soja e algodão industrializado"
+   ],
+   "e": "Tomate, batata, milho e cacau viajaram para a Europa."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual era o nome dado por Cabral ao território em 1500, achando que era uma ilha?",
+   "o": [
+    "Ilha de Vera Cruz",
+    "Terra dos Papagaios",
+    "Pindorama",
+    "Estados Unidos do Brasil"
+   ],
+   "e": "Depois perceberam que não era ilha."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual nome do Brasil veio do apelido dado pelos navegantes por causa das aves coloridas?",
+   "o": [
+    "Terra dos Papagaios",
+    "Pindorama",
+    "Ilha de Vera Cruz",
+    "Terra de Santa Cruz"
+   ],
+   "e": "Havia muitos papagaios e outras aves."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quantas línguas indígenas existiam no Brasil antes de 1500?",
+   "o": [
+    "Mais de 1.200",
+    "Cerca de 12",
+    "Apenas 3",
+    "Cerca de 50"
+   ],
+   "e": "Muitas línguas se perderam com a colonização."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como os indígenas resistiram à colonização?",
+   "o": [
+    "Com fugas, guerras e alianças entre povos",
+    "Aceitando todas as ordens",
+    "Abandonando sua cultura",
+    "Entregando as terras"
+   ],
+   "e": "Eles também preservaram suas tradições."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual bioma foi muito devastado pela extração do pau-brasil?",
+   "o": [
+    "Mata Atlântica",
+    "Pantanal",
+    "Pampa",
+    "Caatinga"
+   ],
+   "e": "O pau-brasil era extraído do litoral."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Um território dominado e explorado por outro país é chamado de...",
+   "o": [
+    "colônia",
+    "capitania",
+    "república",
+    "reino"
+   ],
+   "e": "O Brasil foi colônia de Portugal por mais de 300 anos."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "No período pré-colonial, os indígenas trocavam pau-brasil por quais objetos?",
+   "o": [
+    "Espelhos, miçangas e ferramentas",
+    "Dinheiro de papel",
+    "Máquinas a vapor",
+    "Carros e motos"
+   ],
+   "e": "Era uma forma de escambo."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como eram chamados os donos das Capitanias Hereditárias?",
+   "o": [
+    "Capitães-donatários",
+    "Imperadores",
+    "Governadores-gerais",
+    "Prefeitos"
+   ],
+   "e": "Eles administravam faixas de terra."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que as capitanias foram chamadas de \"hereditárias\"?",
+   "o": [
+    "A terra e o cargo passavam de pai para filho",
+    "Eram divididas entre vizinhos",
+    "Eram sorteadas a cada ano",
+    "Eram dadas ao povo"
+   ],
+   "e": "Hereditário é o que se herda."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em qual cidade ficou a sede do Governo-Geral, criado em 1549?",
+   "o": [
+    "Salvador",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Brasília"
+   ],
+   "e": "Salvador, na Bahia, foi a primeira capital."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual atividade ganhou importância no Brasil no século XVIII?",
+   "o": [
+    "A mineração de ouro",
+    "A produção de petróleo",
+    "A indústria automobilística",
+    "A produção de computadores"
+   ],
+   "e": "O ouro foi achado em Minas Gerais."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "A mistura de povos e culturas que formou o povo brasileiro chama-se...",
+   "o": [
+    "miscigenação",
+    "escambo",
+    "sedentarismo",
+    "catequese"
+   ],
+   "e": "Indígenas, europeus e africanos se misturaram."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem foi o primeiro imperador do Brasil?",
+   "o": [
+    "D. Pedro I",
+    "D. Pedro II",
+    "D. João III",
+    "Deodoro da Fonseca"
+   ],
+   "e": "D. Pedro I governou após a Independência."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual produto era o principal do Brasil durante o governo de D. Pedro II?",
+   "o": [
+    "Café",
+    "Pau-brasil",
+    "Ouro",
+    "Cana-de-açúcar"
+   ],
+   "e": "No seu governo surgiram também as estradas de ferro."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem assinou a Lei Áurea, em 1888?",
+   "o": [
+    "A Princesa Isabel",
+    "A Imperatriz Leopoldina",
+    "A Rainha Maria",
+    "A Princesa Diana"
+   ],
+   "e": "Isabel era filha de D. Pedro II."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual é a principal diferença entre o imperador e o presidente?",
+   "o": [
+    "O presidente é escolhido pelo povo por um tempo determinado",
+    "O presidente herda o cargo do pai",
+    "O imperador é escolhido pelo povo",
+    "O imperador governa só por 4 anos"
+   ],
+   "e": "O imperador herdava o trono e governava pela vida toda."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem foi o 2º presidente do Brasil, conhecido como \"Marechal de Ferro\"?",
+   "o": [
+    "Floriano Peixoto",
+    "Prudente de Morais",
+    "Getúlio Vargas",
+    "Juscelino Kubitschek"
+   ],
+   "e": "Deodoro foi o 1º e Floriano, o 2º."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem foi o primeiro presidente civil do Brasil?",
+   "o": [
+    "Prudente de Morais",
+    "Deodoro da Fonseca",
+    "Floriano Peixoto",
+    "Getúlio Vargas"
+   ],
+   "e": "Civil quer dizer que não era militar."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual poder cuida da justiça e faz cumprir as leis?",
+   "o": [
+    "Judiciário",
+    "Executivo",
+    "Legislativo",
+    "Eleitoral"
+   ],
+   "e": "Os juízes trabalham em fóruns e tribunais."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual edifício da Praça dos Três Poderes abriga o Poder Legislativo?",
+   "o": [
+    "Congresso Nacional",
+    "Palácio do Planalto",
+    "Supremo Tribunal Federal",
+    "Câmara Municipal"
+   ],
+   "e": "No Congresso trabalham deputados e senadores."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Como se chama o mapa que representa o planeta inteiro?",
+   "o": [
+    "Mapa-múndi",
+    "Planta baixa",
+    "Mapa do bairro",
+    "Croqui da escola"
+   ],
+   "e": "O mapa-múndi mostra continentes, países e oceanos."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual desenho mostra os pontos cardeais?",
+   "o": [
+    "Rosa dos ventos",
+    "Escala",
+    "Legenda",
+    "Título"
+   ],
+   "e": "A rosa dos ventos indica Norte, Sul, Leste e Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual trópico fica ao sul da Linha do Equador?",
+   "o": [
+    "Trópico de Capricórnio",
+    "Trópico de Câncer",
+    "Círculo Polar Ártico",
+    "Meridiano de Greenwich"
+   ],
+   "e": "Capricórnio fica ao sul e Câncer ao norte."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Por que o Brasil tem clima predominantemente tropical?",
+   "o": [
+    "A maior parte do país fica entre os dois trópicos",
+    "Fica sobre o Polo Norte",
+    "Fica só no hemisfério Leste",
+    "Não tem litoral"
+   ],
+   "e": "Entre os trópicos o clima é quente."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual continente tem mais países?",
+   "o": [
+    "África",
+    "Ásia",
+    "Europa",
+    "Oceania"
+   ],
+   "e": "A África é o continente com mais países."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é o continente menos populoso?",
+   "o": [
+    "Oceania",
+    "Ásia",
+    "África",
+    "América"
+   ],
+   "e": "A Oceania é o continente menos populoso."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Segundo a ONU, quantos países existem no mundo?",
+   "o": [
+    "193",
+    "50",
+    "27",
+    "250"
+   ],
+   "e": "Um país tem fronteiras, governo próprio e moeda."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em qual continente fica o Brasil?",
+   "o": [
+    "América do Sul",
+    "América do Norte",
+    "África",
+    "Europa"
+   ],
+   "e": "O Brasil é o maior país da América do Sul."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual estado brasileiro tem a menor densidade demográfica?",
+   "o": [
+    "Roraima",
+    "Rio de Janeiro",
+    "São Paulo",
+    "Espírito Santo"
+   ],
+   "e": "Roraima é pouco povoado."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O Brasil tem muita gente, mas baixa densidade. Por quê?",
+   "o": [
+    "Porque o território é enorme",
+    "Porque tem poucos habitantes",
+    "Porque não tem cidades",
+    "Porque é um país pequeno"
+   ],
+   "e": "Muita gente espalhada em muito espaço dá baixa densidade."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Onde se concentra a maior parte da população brasileira?",
+   "o": [
+    "No litoral e nas regiões Sudeste, Sul e Nordeste",
+    "Na Amazônia",
+    "No Pantanal",
+    "No interior do Centro-Oeste"
+   ],
+   "e": "O interior e a Amazônia são pouco povoados."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Aproximadamente quantos municípios tem o Brasil?",
+   "o": [
+    "5.570",
+    "27",
+    "500",
+    "55.700"
+   ],
+   "e": "O Brasil é formado por mais de cinco mil municípios."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quantos estados tem a Região Nordeste?",
+   "o": [
+    "9",
+    "7",
+    "4",
+    "3"
+   ],
+   "e": "Nordeste: 9 estados."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual região foi a primeira explorada pelos portugueses, com cana-de-açúcar?",
+   "o": [
+    "Nordeste",
+    "Sul",
+    "Centro-Oeste",
+    "Norte"
+   ],
+   "e": "No Nordeste surgiram os primeiros engenhos."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado do Amazonas?",
+   "o": [
+    "Manaus",
+    "Belém",
+    "Porto Velho",
+    "Macapá"
+   ],
+   "e": "Manaus fica na Região Norte."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado da Bahia?",
+   "o": [
+    "Salvador",
+    "Recife",
+    "Fortaleza",
+    "Aracaju"
+   ],
+   "e": "Salvador foi a primeira capital do Brasil."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado de Minas Gerais?",
+   "o": [
+    "Belo Horizonte",
+    "Vitória",
+    "Curitiba",
+    "Goiânia"
+   ],
+   "e": "Minas Gerais fica no Sudeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado de Santa Catarina?",
+   "o": [
+    "Florianópolis",
+    "Curitiba",
+    "Porto Alegre",
+    "Joinville"
+   ],
+   "e": "Santa Catarina fica na Região Sul."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado de Mato Grosso?",
+   "o": [
+    "Cuiabá",
+    "Campo Grande",
+    "Goiânia",
+    "Brasília"
+   ],
+   "e": "Cuiabá fica no Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do estado do Rio de Janeiro, onde fica Resende?",
+   "o": [
+    "Rio de Janeiro",
+    "Niterói",
+    "Petrópolis",
+    "Resende"
+   ],
+   "e": "A cidade do Rio de Janeiro é a capital do estado."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Uma paisagem formada só por elementos da natureza, sem mudança humana, é...",
+   "o": [
+    "natural",
+    "humanizada",
+    "urbana",
+    "cultural"
+   ],
+   "e": "Exemplos: floresta virgem, rio e montanha."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes é um elemento natural da paisagem?",
+   "o": [
+    "Rio",
+    "Escola",
+    "Praça",
+    "Estrada"
+   ],
+   "e": "Árvores, rios e montanhas são naturais."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes elementos modifica a paisagem por ação humana?",
+   "o": [
+    "Desmatamento",
+    "Chuva",
+    "Vento",
+    "Terremoto"
+   ],
+   "e": "A chuva, o vento e o terremoto são forças da natureza."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual atividade é típica da cidade?",
+   "o": [
+    "Indústria, comércio e serviços",
+    "Pecuária",
+    "Extrativismo vegetal",
+    "Pesca artesanal"
+   ],
+   "e": "A cidade concentra indústria, comércio e serviços."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O campo fornece alimentos para a cidade e a cidade fornece máquinas ao campo. Isso é...",
+   "o": [
+    "interdependência",
+    "êxodo rural",
+    "migração",
+    "extrativismo"
+   ],
+   "e": "Um depende do outro."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é uma consequência do êxodo rural para as cidades?",
+   "o": [
+    "Crescimento das periferias e falta de moradia",
+    "Menos habitantes",
+    "Mais campos e fazendas",
+    "Menos empregos no campo"
+   ],
+   "e": "Muitas pessoas chegam de uma vez."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual dos recursos abaixo é renovável?",
+   "o": [
+    "Água",
+    "Petróleo",
+    "Ouro",
+    "Ferro"
+   ],
+   "e": "A natureza repõe a água."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Retirar látex da seringueira é um exemplo de extrativismo...",
+   "o": [
+    "vegetal",
+    "mineral",
+    "animal",
+    "industrial"
+   ],
+   "e": "O látex serve para produzir borracha."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Como se chama o extrativismo que retira só o necessário e respeita a natureza?",
+   "o": [
+    "Sustentável",
+    "Predatório",
+    "Mineral",
+    "Urbano"
+   ],
+   "e": "Já o predatório retira demais e destrói."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quantos biomas tem o Brasil?",
+   "o": [
+    "6",
+    "4",
+    "10",
+    "3"
+   ],
+   "e": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual bioma abastece grande parte da população com seus rios?",
+   "o": [
+    "Mata Atlântica",
+    "Caatinga",
+    "Pampa",
+    "Pantanal"
+   ],
+   "e": "Mesmo devastada, a Mata Atlântica abastece muita gente."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em quais estados fica o Pantanal?",
+   "o": [
+    "Mato Grosso e Mato Grosso do Sul",
+    "Goiás e Tocantins",
+    "Pará e Amazonas",
+    "Rio Grande do Sul e Paraná"
+   ],
+   "e": "O Pantanal está no Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Com quais países o Centro-Oeste faz fronteira?",
+   "o": [
+    "Bolívia e Paraguai",
+    "Argentina e Uruguai",
+    "Peru e Colômbia",
+    "Venezuela e Guiana"
+   ],
+   "e": "Esses países ficam a oeste do Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a região com a menor população do Brasil?",
+   "o": [
+    "Centro-Oeste",
+    "Sudeste",
+    "Nordeste",
+    "Sul"
+   ],
+   "e": "Mesmo assim, a maioria vive nas cidades."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Como é o clima do Centro-Oeste?",
+   "o": [
+    "Tropical, com verão chuvoso e inverno seco",
+    "Polar, com neve o ano todo",
+    "Desértico, sem chuva",
+    "Subtropical, o mais frio do país"
+   ],
+   "e": "O Cerrado vive entre chuva e seca."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual rio banha o Pantanal?",
+   "o": [
+    "Rio Paraguai",
+    "Rio Amazonas",
+    "Rio São Francisco",
+    "Rio Paraíba do Sul"
+   ],
+   "e": "O Paraguai, o Araguaia e o Paraná estão no Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual cidade de Mato Grosso do Sul é famosa pelo turismo de águas cristalinas?",
+   "o": [
+    "Bonito",
+    "Cuiabá",
+    "Goiânia",
+    "Resende"
+   ],
+   "e": "Bonito é ponto turístico do Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual prato típico de Goiás leva um fruto do Cerrado de sabor marcante?",
+   "o": [
+    "Arroz com pequi",
+    "Tacacá",
+    "Acarajé",
+    "Feijoada"
+   ],
+   "e": "Goiás também tem as Cavalhadas."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quais danças são típicas de Mato Grosso?",
+   "o": [
+    "Siriri e Cururu",
+    "Frevo e Maracatu",
+    "Samba e Bossa Nova",
+    "Carimbó e Lundu"
+   ],
+   "e": "São danças tradicionais mato-grossenses."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Onde vivem muitos povos indígenas, em Mato Grosso?",
+   "o": [
+    "Parque Indígena do Xingu",
+    "Parque da Tijuca",
+    "Pantanal Norte",
+    "Serra do Mar"
+   ],
+   "e": "O Xingu protege muitos povos indígenas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é o reino dos seres vivos que inclui os cogumelos e os bolores?",
+   "o": [
+    "Fungos",
+    "Vegetal",
+    "Animal",
+    "Mineral"
+   ],
+   "e": "Fungos são decompositores."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Quais são as fases do ciclo vital de um ser vivo?",
+   "o": [
+    "Nascimento, crescimento, reprodução e morte",
+    "Sono, fome, sede e alimento",
+    "Ovo, casulo, voo e queda",
+    "Planta, flor, fruto e semente"
+   ],
+   "e": "Todo ser vivo passa por essas fases."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Para que serve a reprodução dos seres vivos?",
+   "o": [
+    "Gerar descendentes e continuar a espécie",
+    "Produzir energia solar",
+    "Evitar a morte",
+    "Fazer fotossíntese"
+   ],
+   "e": "Sem reprodução a espécie desaparece."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Em qual temperatura a água ferve e vira vapor?",
+   "o": [
+    "Acima de 100 °C",
+    "Abaixo de 0 °C",
+    "Em 20 °C",
+    "Em 50 °C"
+   ],
+   "e": "Acima de 100 °C a água é gasosa."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que acontece com a água que penetra no solo?",
+   "o": [
+    "Infiltração",
+    "Evaporação",
+    "Condensação",
+    "Precipitação"
+   ],
+   "e": "A água também pode escoar para rios e mares."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Como se chama a passagem da água do estado líquido para o sólido?",
+   "o": [
+    "Solidificação",
+    "Fusão",
+    "Evaporação",
+    "Condensação"
+   ],
+   "e": "Abaixo de 0 °C a água vira gelo."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual substância a planta produz na fotossíntese como alimento?",
+   "o": [
+    "Glicose",
+    "Sal mineral",
+    "Água",
+    "Gás carbônico"
+   ],
+   "e": "A fotossíntese produz glicose e libera oxigênio."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Por que as plantas formam a base da cadeia alimentar?",
+   "o": [
+    "Porque produzem o próprio alimento",
+    "Porque são maiores que os animais",
+    "Porque comem insetos",
+    "Porque vivem na água"
+   ],
+   "e": "São produtoras."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual ser vivo sempre começa uma cadeia alimentar?",
+   "o": [
+    "O produtor",
+    "O consumidor",
+    "O decompositor",
+    "O carnívoro"
+   ],
+   "e": "Sem produtor não haveria energia para os demais."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Quem é o consumidor secundário em uma cadeia alimentar?",
+   "o": [
+    "O carnívoro que come o herbívoro",
+    "O herbívoro",
+    "A planta",
+    "O fungo"
+   ],
+   "e": "Primário é herbívoro; secundário é carnívoro."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Várias cadeias alimentares ligadas entre si formam...",
+   "o": [
+    "uma teia alimentar",
+    "um ciclo vital",
+    "uma pirâmide de pedra",
+    "um bioma"
+   ],
+   "e": "Na teia, um animal pode participar de várias cadeias."
+  },
+  {
+   "m": "C",
+   "ctx": "Planta → gafanhoto → sapo → cobra → águia",
+   "q": "Nessa cadeia, quem fabrica o próprio alimento?",
+   "o": [
+    "A planta",
+    "O gafanhoto",
+    "O sapo",
+    "A águia"
+   ],
+   "e": "A planta fabrica o próprio alimento."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é herbívoro?",
+   "o": [
+    "Capivara",
+    "Onça",
+    "Jacaré",
+    "Leão"
+   ],
+   "e": "Herbívoros comem só plantas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é carnívoro?",
+   "o": [
+    "Jacaré",
+    "Vaca",
+    "Ema",
+    "Anta"
+   ],
+   "e": "Carnívoros comem outros animais."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é onívoro, como o ser humano?",
+   "o": [
+    "Quati",
+    "Vaca",
+    "Onça",
+    "Tamanduá-bandeira"
+   ],
+   "e": "Onívoros comem plantas e animais."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes é um animal invertebrado?",
+   "o": [
+    "Estrela-do-mar",
+    "Onça",
+    "Sapo",
+    "Tuiuiú"
+   ],
+   "e": "Invertebrados não têm coluna vertebral."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Quantos grupos formam os vertebrados?",
+   "o": [
+    "5",
+    "3",
+    "2",
+    "10"
+   ],
+   "e": "Mamíferos, aves, répteis, anfíbios e peixes."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Como respiram os mamíferos?",
+   "o": [
+    "Por pulmões",
+    "Por brânquias",
+    "Pela pele",
+    "Pelas penas"
+   ],
+   "e": "Capivara, onça e ser humano respiram por pulmões."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é uma ave?",
+   "o": [
+    "Ema",
+    "Sapo",
+    "Cobra",
+    "Piranha"
+   ],
+   "e": "As aves têm penas e bico."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais pertence ao grupo dos répteis?",
+   "o": [
+    "Tartaruga",
+    "Perereca",
+    "Tuiuiú",
+    "Capivara"
+   ],
+   "e": "Répteis têm escamas ou placas duras."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é um anfíbio, de pele lisa e úmida?",
+   "o": [
+    "Perereca",
+    "Jacaré",
+    "Ariranha",
+    "Ema"
+   ],
+   "e": "Sapo, rã e perereca são anfíbios."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O conjunto de animais de um lugar é chamado de...",
+   "o": [
+    "fauna",
+    "flora",
+    "bioma",
+    "clima"
+   ],
+   "e": "Fauna é o conjunto de animais; flora, o de plantas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual animal é conhecido como grande nadador e tem manchas pretas?",
+   "o": [
+    "Onça-pintada",
+    "Lobo-guará",
+    "Tamanduá-bandeira",
+    "Ema"
+   ],
+   "e": "O Pantanal tem a maior população do mundo."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual animal come formigas e cupins com a língua comprida?",
+   "o": [
+    "Tamanduá-bandeira",
+    "Onça-pintada",
+    "Capivara",
+    "Tuiuiú"
+   ],
+   "e": "A língua é comprida e pegajosa."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual ave está ameaçada de extinção pelo tráfico e pela destruição do seu ambiente?",
+   "o": [
+    "Arara-azul",
+    "Tuiuiú",
+    "Ema",
+    "Pardal"
+   ],
+   "e": "Ela é muito visada por quem vende animais silvestres."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais da região é ameaçado de extinção?",
+   "o": [
+    "Tatu-canastra",
+    "Cachorro doméstico",
+    "Vaca",
+    "Galinha"
+   ],
+   "e": "Tatu-canastra, lobo-guará, onça e arara-azul estão ameaçados."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que é o tráfico de animais?",
+   "o": [
+    "Captura de animais para vender",
+    "Proteção de animais",
+    "Criação de animais em fazenda",
+    "Passeio com animais"
+   ],
+   "e": "É crime e ameaça a fauna."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que devemos fazer ao ver alguém capturando animais silvestres?",
+   "o": [
+    "Denunciar",
+    "Comprar um filhote",
+    "Ignorar",
+    "Filmar para jogar fora"
+   ],
+   "e": "Denunciar ajuda a proteger a fauna."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Em qual fase da metamorfose completa a borboleta fica dentro do casulo?",
+   "o": [
+    "Pupa",
+    "Ovo",
+    "Larva",
+    "Adulto"
+   ],
+   "e": "A larva (lagarta) vira pupa e depois adulto."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual mistura é homogênea?",
+   "o": [
+    "Água + açúcar",
+    "Água + areia",
+    "Água + óleo",
+    "Suco com pedaços"
+   ],
+   "e": "Não dá para ver as partes."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual mistura é heterogênea?",
+   "o": [
+    "Água + areia",
+    "Água + sal",
+    "Água + açúcar",
+    "Água + álcool"
+   ],
+   "e": "As partes são visíveis."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "De onde veio a energia que está nos músculos do ser humano, na cadeia Sol → grama → vaca → ser humano?",
+   "o": [
+    "Da luz do Sol",
+    "Do vento",
+    "Da água do rio",
+    "Do solo"
+   ],
+   "e": "A energia caminha pela cadeia."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O Sol é a fonte de energia do planeta. O que acontece com a água ao receber calor do Sol?",
+   "o": [
+    "Evapora",
+    "Congela",
+    "Condensa",
+    "Precipita"
+   ],
+   "e": "O calor do Sol faz a água passar para o estado gasoso."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual gás as plantas retiram do ar para a fotossíntese?",
+   "o": [
+    "Gás carbônico",
+    "Oxigênio",
+    "Hidrogênio",
+    "Nitrogênio"
+   ],
+   "e": "Elas usam gás carbônico, água e luz."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes seres vivos é pluricelular?",
+   "o": [
+    "Árvore",
+    "Bactéria",
+    "Vírus",
+    "Bolor unicelular"
+   ],
+   "e": "Animais e plantas são pluricelulares."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual ave é considerada a maior do Brasil?",
+   "o": [
+    "Ema",
+    "Tuiuiú",
+    "Arara-azul",
+    "Coruja"
+   ],
+   "e": "A ema não voa muito, mas é a maior ave do país."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual animal do Pantanal é uma cobra gigante?",
+   "o": [
+    "Sucuri",
+    "Jiboia",
+    "Jararaca",
+    "Coral"
+   ],
+   "e": "A sucuri é a maior cobra do Brasil."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "De onde a planta retira a água e os sais minerais para a fotossíntese?",
+   "o": [
+    "Do solo",
+    "Do ar",
+    "Do Sol",
+    "Das folhas secas"
+   ],
+   "e": "As raízes absorvem água e sais minerais."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Em qual estado físico a água se encontra no vapor?",
+   "o": [
+    "Gasoso",
+    "Sólido",
+    "Líquido",
+    "Pastoso"
+   ],
+   "e": "O vapor é a água no estado gasoso."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Por que as queimadas prejudicam a fauna?",
+   "o": [
+    "Destroem o ambiente, o abrigo e o alimento dos animais",
+    "Aumentam o alimento disponível",
+    "Criam novas florestas",
+    "Deixam o ar mais puro"
+   ],
+   "e": "Muitos animais morrem ou perdem o lugar onde vivem."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 3.200 ÷ 4?",
+   "o": [
+    "800",
+    "80",
+    "8.000",
+    "1.200"
+   ],
+   "e": "3.200 ÷ 4 = 800."
+  }
+ ]
+}

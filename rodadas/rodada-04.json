@@ -1,0 +1,2406 @@
+{
+ "rodada": "rodada 04",
+ "formato": "m: P=Português M=Matemática H=História G=Geografia C=Ciências | o: 4 alternativas, a 1ª é a CORRETA (o jogo embaralha) | ctx: trecho opcional | e: explicação curta",
+ "perguntas": [
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 5 × (9 + 25)?",
+   "o": [
+    "170",
+    "70",
+    "39",
+    "1125"
+   ],
+   "e": "Primeiro resolva o parêntese, depois multiplicação e divisão."
+  },
+  {
+   "m": "M",
+   "ctx": "Davi tinha R$ 531 e gastou R$ 146 na papelaria.",
+   "q": "Quanto sobrou?",
+   "o": [
+    "R$ 385",
+    "R$ 677",
+    "R$ 395",
+    "R$ 285"
+   ],
+   "e": "Gastar indica subtração."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O mapa que representa o planeta inteiro, com continentes, países e oceanos, é o...",
+   "o": [
+    "mapa-múndi",
+    "mapa do bairro",
+    "mapa da escola",
+    "mapa do tesouro"
+   ],
+   "e": "Mundi quer dizer mundo."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Que língua foi imposta aos povos indígenas durante a colonização?",
+   "o": [
+    "Português",
+    "Inglês",
+    "Espanhol",
+    "Latim"
+   ],
+   "e": "Havia mais de 1.200 línguas indígenas antes de 1500."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual continente é o maior e mais populoso do mundo?",
+   "o": [
+    "Ásia",
+    "África",
+    "Europa",
+    "América"
+   ],
+   "e": "A Ásia tem a maior população."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem desenha mapas é chamado de...",
+   "o": [
+    "cartógrafo",
+    "donatário",
+    "mercador",
+    "regente"
+   ],
+   "e": "Os cartógrafos de Sagres desenhavam os mapas das viagens."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "O que significa abdicar do trono?",
+   "o": [
+    "Deixar o cargo de rei ou imperador",
+    "Ganhar uma coroa",
+    "Conquistar terras",
+    "Declarar guerra"
+   ],
+   "e": "D. Pedro I abdicou em 1831."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Quantas sílabas tem a palavra \"geladeira\"?",
+   "o": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "e": "Separe a palavra em sílabas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que acontece com a energia na cadeia alimentar?",
+   "o": [
+    "Passa de um ser vivo para outro",
+    "Desaparece ao nascer",
+    "Fica sempre parada",
+    "Volta para o Sol"
+   ],
+   "e": "A seta mostra o caminho da energia."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em qual região fica o estado do Pará?",
+   "o": [
+    "Norte",
+    "Nordeste",
+    "Centro-Oeste",
+    "Sul"
+   ],
+   "e": "O Pará é um estado da região Norte."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual região tem forte presença de imigrantes europeus e bioma Pampa?",
+   "o": [
+    "Sul",
+    "Norte",
+    "Nordeste",
+    "Centro-Oeste"
+   ],
+   "e": "O Sul tem o clima mais frio do país."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma escola tem 30 alunos e quer formar grupos de 6.",
+   "q": "Quantos grupos serão formados?",
+   "o": [
+    "5",
+    "6",
+    "4",
+    "24"
+   ],
+   "e": "Agrupamento: 30 ÷ 6 = 5."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "O nome indígena Pindorama quer dizer...",
+   "o": [
+    "Terra das Palmeiras",
+    "Terra do Fogo",
+    "Terra da Cana",
+    "Terra dos Papagaios"
+   ],
+   "e": "Pindorama é o nome tupi."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "O primeiro parágrafo de uma notícia, o lide, responde...",
+   "o": [
+    "o quê, quem, quando, onde, como e por quê",
+    "apenas \"quem\"",
+    "a moral da história",
+    "os ingredientes"
+   ],
+   "e": "Resume o fato principal."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quantos estados formam a Região Norte?",
+   "o": [
+    "7",
+    "9",
+    "3",
+    "4"
+   ],
+   "e": "Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins."
+  },
+  {
+   "m": "M",
+   "ctx": "Carla tem 196 balas para repartir igualmente entre 7 amigos.",
+   "q": "Quantas balas cada amigo recebe?",
+   "o": [
+    "28",
+    "38",
+    "27",
+    "189"
+   ],
+   "e": "Dividir igualmente: 196 ÷ 7 = 28."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem criou as Capitanias Hereditárias, em 1534?",
+   "o": [
+    "O rei D. João III",
+    "D. Pedro I",
+    "Cabral",
+    "Tomé de Sousa"
+   ],
+   "e": "Ele dividiu o Brasil em 14 faixas de terra."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Ele abriu a porta e ___\"",
+   "q": "Qual sinal completa a frase corretamente?",
+   "o": [
+    "…",
+    "?",
+    ".",
+    "!"
+   ],
+   "e": "Reticências indicam suspense."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é (4 × 3) + 27?",
+   "o": [
+    "39",
+    "189",
+    "-15",
+    "85"
+   ],
+   "e": "Primeiro resolva o parêntese, depois multiplicação e divisão."
+  },
+  {
+   "m": "M",
+   "ctx": "Um ábaco mostra: 3 dezenas de milhar, 1 unidade de milhar, 4 centenas, 0 dezenas e 6 unidades.",
+   "q": "Que número o ábaco representa?",
+   "o": [
+    "31.406",
+    "3.146",
+    "30.146",
+    "31.046"
+   ],
+   "e": "Cada haste vale uma ordem."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em qual região ficavam os engenhos de açúcar?",
+   "o": [
+    "No litoral do Nordeste",
+    "No interior do Centro-Oeste",
+    "No Sul",
+    "Na Amazônia"
+   ],
+   "e": "O açúcar foi muito lucrativo nos séculos XVI e XVII."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que o campo fornece para a cidade?",
+   "o": [
+    "Alimentos e matérias-primas",
+    "Máquinas e tecnologia",
+    "Shopping centers",
+    "Metrô"
+   ],
+   "e": "A cidade fornece máquinas e serviços."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes seres vivos é um produtor?",
+   "o": [
+    "Alga",
+    "Onça",
+    "Fungo",
+    "Sapo"
+   ],
+   "e": "As algas fazem fotossíntese."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é peixe?",
+   "o": [
+    "Piranha",
+    "Ariranha",
+    "Jacaré",
+    "Capivara"
+   ],
+   "e": "Peixes têm nadadeiras e brânquias."
+  },
+  {
+   "m": "M",
+   "ctx": "Na malha, a figura pintada tem 10 quadradinhos de 4 cm² cada.",
+   "q": "Qual é a área da figura?",
+   "o": [
+    "40 cm²",
+    "40 cm",
+    "14 cm²",
+    "80 cm²"
+   ],
+   "e": "Área = quadradinhos × valor de cada um."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Na metamorfose completa, o casulo é a fase...",
+   "o": [
+    "pupa",
+    "larva",
+    "adulta",
+    "de ovo"
+   ],
+   "e": "Dentro do casulo a lagarta se transforma."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é a ordem correta de uma cadeia alimentar simples?",
+   "o": [
+    "Produtor → consumidor primário → consumidor secundário",
+    "Consumidor secundário → produtor → consumidor primário",
+    "Decompositor → consumidor primário → produtor",
+    "Consumidor primário → decompositor → produtor"
+   ],
+   "e": "A cadeia começa com o produtor."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destas palavras define a pesca, quando praticada para obter alimento?",
+   "o": [
+    "Extrativismo animal",
+    "Extrativismo mineral",
+    "Extrativismo vegetal",
+    "Agricultura"
+   ],
+   "e": "A pesca retira animais da natureza."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual grupo de vertebrados tem penas e bico?",
+   "o": [
+    "Aves",
+    "Mamíferos",
+    "Répteis",
+    "Anfíbios"
+   ],
+   "e": "As aves botam ovos."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Há cerca de quantos anos surgiu o Homo sapiens, na África?",
+   "o": [
+    "200 mil anos",
+    "2 mil anos",
+    "20 mil anos",
+    "2 milhões de anos"
+   ],
+   "e": "Nossa espécie surgiu há cerca de 200 mil anos."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes é um exemplo de extrativismo vegetal?",
+   "o": [
+    "Retirar látex da seringueira",
+    "Pescar",
+    "Extrair ouro",
+    "Perfurar petróleo"
+   ],
+   "e": "O látex produz borracha."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Os três poderes trabalham...",
+   "o": [
+    "juntos e de forma independente",
+    "só um por vez",
+    "sempre contra o povo",
+    "apenas em Salvador"
+   ],
+   "e": "Isso busca o bem de todos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é paroxítona?",
+   "o": [
+    "mesa",
+    "café",
+    "lâmpada",
+    "sofá"
+   ],
+   "e": "A sílaba mais forte é a penúltima."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes já foi usado como objeto-moeda?",
+   "o": [
+    "Sal",
+    "Cartão de crédito",
+    "Pix",
+    "Cheque"
+   ],
+   "e": "Conchas, sal, grãos, penas e pedras preciosas serviram de moeda."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "O reino da Lídia, onde surgiram as primeiras moedas, ficava no território da atual...",
+   "o": [
+    "Turquia",
+    "Itália",
+    "Espanha",
+    "China"
+   ],
+   "e": "A Lídia ficava onde hoje é a Turquia."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual extrativismo retira demais e causa destruição?",
+   "o": [
+    "Predatório",
+    "Sustentável",
+    "Cultural",
+    "Humanizado"
+   ],
+   "e": "O sustentável respeita a natureza."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é antônimo de \"perto\"?",
+   "o": [
+    "longe",
+    "próximo",
+    "ao lado",
+    "junto"
+   ],
+   "e": "Perto e longe são opostos."
+  },
+  {
+   "m": "C",
+   "ctx": "Capim → veado-campeiro → onça-pintada → fungos",
+   "q": "Na cadeia acima, quem é o carnívoro?",
+   "o": [
+    "A onça-pintada",
+    "O capim",
+    "O veado-campeiro",
+    "Os fungos"
+   ],
+   "e": "Ela se alimenta de veados."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Que horas são 13h em um relógio de ponteiros?",
+   "o": [
+    "1 hora da tarde",
+    "1 horas da manhã",
+    "3 horas da noite",
+    "2 horas da madrugada"
+   ],
+   "e": "Depois do meio-dia, subtraia 12."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o número que torna verdadeira a igualdade 5 + 7 = 4 + ___ ?",
+   "o": [
+    "8",
+    "9",
+    "7",
+    "5"
+   ],
+   "e": "Os dois lados devem valer 12."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que as capitanias não deram certo?",
+   "o": [
+    "Faltava dinheiro e interesse, eram isoladas e sofriam ataques",
+    "Havia dinheiro demais",
+    "Faltava terra",
+    "Havia navios demais"
+   ],
+   "e": "Muitas foram abandonadas."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que é uma planície?",
+   "o": [
+    "Terreno plano e baixo",
+    "Montanha muito alta",
+    "Terreno cheio de picos",
+    "Vulcão"
+   ],
+   "e": "O Pantanal é uma grande planície."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma caixa tem 5 lápis. Felipe comprou 4 caixas.",
+   "q": "Quantos lápis Felipe comprou?",
+   "o": [
+    "20",
+    "9",
+    "25",
+    "16"
+   ],
+   "e": "Parcelas iguais: 4 × 5."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Pelo Tratado de Tordesilhas, as terras a leste da linha ficaram com...",
+   "o": [
+    "Portugal",
+    "Espanha",
+    "França",
+    "Holanda"
+   ],
+   "e": "As terras a oeste ficaram com a Espanha."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual característica une aves como a ema e o tuiuiú?",
+   "o": [
+    "Têm penas, bico e botam ovos",
+    "Têm pelos",
+    "Têm brânquias",
+    "Têm pele úmida"
+   ],
+   "e": "São animais vertebrados."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que é um planalto?",
+   "o": [
+    "Terreno elevado e relativamente plano",
+    "Terreno baixo e alagado",
+    "Praia",
+    "Lago"
+   ],
+   "e": "O Planalto Central fica no Centro-Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Retirar ferro e ouro do subsolo é um exemplo de extrativismo...",
+   "o": [
+    "mineral",
+    "vegetal",
+    "animal",
+    "sustentável apenas"
+   ],
+   "e": "O extrativismo mineral retira minérios."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o número que torna verdadeira a igualdade 9 + 9 = 4 + ___ ?",
+   "o": [
+    "14",
+    "15",
+    "13",
+    "9"
+   ],
+   "e": "Os dois lados devem valer 18."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual era o principal produto da economia brasileira no Segundo Reinado?",
+   "o": [
+    "Café",
+    "Pau-brasil",
+    "Ouro",
+    "Borracha"
+   ],
+   "e": "O café dominou o governo de D. Pedro II."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma caixa tem 4 lápis. Bruno comprou 7 caixas.",
+   "q": "Quantos lápis Bruno comprou?",
+   "o": [
+    "28",
+    "11",
+    "32",
+    "21"
+   ],
+   "e": "Parcelas iguais: 7 × 4."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem foi D. João III?",
+   "o": [
+    "O rei que criou as Capitanias Hereditárias",
+    "O primeiro imperador do Brasil",
+    "O navegador que achou a Índia",
+    "O presidente que criou a CLT"
+   ],
+   "e": "Ele reinou em Portugal no século XVI."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o plural de \"mão\"?",
+   "o": [
+    "mãos",
+    "mães",
+    "mãoes",
+    "mãozes"
+   ],
+   "e": "Cada final tem uma regra de plural."
+  },
+  {
+   "m": "P",
+   "ctx": "O gato dormia no sofá.",
+   "q": "Qual é o sujeito da frase?",
+   "o": [
+    "O gato",
+    "dormia",
+    "dormia no sofá",
+    "o bolo"
+   ],
+   "e": "O sujeito responde: quem?"
+  },
+  {
+   "m": "M",
+   "ctx": "Sequência: 6.000, 8.000, 10.000, 12.000...",
+   "q": "Qual é o próximo número da sequência?",
+   "o": [
+    "14.000",
+    "16.000",
+    "12.000",
+    "18.000"
+   ],
+   "e": "A regra é somar de 2.000 em 2.000."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que os decompositores devolvem ao solo?",
+   "o": [
+    "Nutrientes",
+    "Plásticos",
+    "Água salgada",
+    "Pedras"
+   ],
+   "e": "Eles reciclam a matéria dos seres mortos."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o antecessor de 8.719?",
+   "o": [
+    "8.718",
+    "8.720",
+    "8.709",
+    "8.619"
+   ],
+   "e": "Antecessor é o número – 1."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "As plantas são chamadas de autótrofas porque...",
+   "o": [
+    "produzem o próprio alimento",
+    "comem outros animais",
+    "vivem só na água",
+    "não precisam de luz"
+   ],
+   "e": "Autótrofo faz o próprio alimento."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Cristóvão Colombo navegava a serviço de qual reino?",
+   "o": [
+    "Espanha",
+    "Portugal",
+    "França",
+    "Inglaterra"
+   ],
+   "e": "Colombo era genovês, mas serviu à Espanha."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem era a Princesa Isabel em relação a D. Pedro II?",
+   "o": [
+    "Filha",
+    "Esposa",
+    "Irmã",
+    "Neta"
+   ],
+   "e": "Ela assinou a Lei Áurea."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual sólido geométrico tem 6 faces quadradas?",
+   "o": [
+    "Cubo",
+    "Cilindro",
+    "Pirâmide",
+    "Esfera"
+   ],
+   "e": "Todas as faces do cubo são quadradas."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que é um país, segundo o que estudamos?",
+   "o": [
+    "Território com fronteiras, governo próprio e moeda",
+    "Um grupo de ilhas sem governo",
+    "Um continente inteiro",
+    "Uma cidade grande"
+   ],
+   "e": "Isso se chama soberania."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que a cidade fornece ao campo?",
+   "o": [
+    "Máquinas, tecnologia e serviços",
+    "Leite e frutas",
+    "Madeira e minério",
+    "Alimentos básicos"
+   ],
+   "e": "O campo fornece alimentos."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Que horas são 15h em um relógio de ponteiros?",
+   "o": [
+    "3 horas da tarde",
+    "3 horas da manhã",
+    "5 horas da noite",
+    "4 horas da madrugada"
+   ],
+   "e": "Depois do meio-dia, subtraia 12."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Quantas sílabas tem a palavra \"picolé\"?",
+   "o": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "e": "Separe a palavra em sílabas."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes fatos aconteceu primeiro?",
+   "o": [
+    "A chegada de Cabral ao Brasil",
+    "A Independência",
+    "A Lei Áurea",
+    "A Proclamação da República"
+   ],
+   "e": "Cabral chegou em 1500."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quantos habitantes o Brasil tem, aproximadamente?",
+   "o": [
+    "211 milhões",
+    "21 milhões",
+    "2 bilhões",
+    "500 mil"
+   ],
+   "e": "A área é de cerca de 8,5 milhões de km²."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital de Goiás?",
+   "o": [
+    "Goiânia",
+    "Brasília",
+    "Cuiabá",
+    "Palmas"
+   ],
+   "e": "Goiás fica no Centro-Oeste."
+  },
+  {
+   "m": "P",
+   "ctx": "A menina abraçou a avó.",
+   "q": "Qual é o sujeito da frase?",
+   "o": [
+    "A menina",
+    "abraçou",
+    "abraçou a avó",
+    "o bolo"
+   ],
+   "e": "O sujeito responde: quem?"
+  },
+  {
+   "m": "P",
+   "ctx": "\"Atenção: o jogo começa quando o dado for lançado. Cada jogador avança uma casa por vez.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Texto instrucional",
+    "Anúncio",
+    "Fábula",
+    "Conto de terror"
+   ],
+   "e": "As regras do jogo ensinam como jogar."
+  },
+  {
+   "m": "H",
+   "ctx": "Em 1500, os portugueses trocavam espelhos e miçangas por toras de pau-brasil.",
+   "q": "Como se chama esse tipo de troca?",
+   "o": [
+    "Escambo",
+    "Imposto",
+    "Salário",
+    "Aluguel"
+   ],
+   "e": "Troca direta, sem dinheiro."
+  },
+  {
+   "m": "M",
+   "ctx": "10.000 + 5.000 + 800 + 80 + 9",
+   "q": "Que número é formado pela soma acima?",
+   "o": [
+    "15.889",
+    "98.851",
+    "16.889",
+    "15.789"
+   ],
+   "e": "Compor é somar as partes."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual destes fatos aconteceu na data 21 de abril de 1960?",
+   "o": [
+    "A inauguração de Brasília",
+    "A Independência",
+    "A abolição",
+    "A Proclamação da República"
+   ],
+   "e": "JK construiu a nova capital."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual pronome pessoal substitui \"Ana\"?",
+   "o": [
+    "Ela",
+    "Eles",
+    "Nós",
+    "Eu"
+   ],
+   "e": "Ana é terceira pessoa do singular."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o sucessor de 86.329?",
+   "o": [
+    "86.330",
+    "86.328",
+    "86.339",
+    "86.429"
+   ],
+   "e": "Sucessor é o número + 1."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Hoje é domingo ___\"",
+   "q": "Qual sinal completa a frase corretamente?",
+   "o": [
+    ".",
+    "?",
+    "!",
+    ":"
+   ],
+   "e": "Frase afirmativa."
+  },
+  {
+   "m": "M",
+   "ctx": "Gráfico de barras com a venda de frutas: maçã 12, banana 20, uva 8.",
+   "q": "Qual fruta teve a barra mais baixa?",
+   "o": [
+    "Uva",
+    "Banana",
+    "Maçã",
+    "Todas iguais"
+   ],
+   "e": "8 é o menor valor."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem compõe o Poder Legislativo federal?",
+   "o": [
+    "Deputados e senadores",
+    "Juízes",
+    "Prefeitos",
+    "Governadores"
+   ],
+   "e": "Eles formam o Congresso Nacional."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o sucessor de 2.000?",
+   "o": [
+    "2.001",
+    "1.999",
+    "2.010",
+    "2.100"
+   ],
+   "e": "Sucessor é o número + 1."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Compre: ovos ___ leite e farinha.\"",
+   "q": "Qual sinal completa a frase corretamente?",
+   "o": [
+    ",",
+    ":",
+    "?",
+    "!"
+   ],
+   "e": "A vírgula separa os itens da lista."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que a planta libera na fotossíntese?",
+   "o": [
+    "Oxigênio",
+    "Gás carbônico",
+    "Fumaça",
+    "Hidrogênio"
+   ],
+   "e": "Esse é o gás que respiramos."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Se 8 + 8 = 16, então 8 + 8 + 6 é igual a:",
+   "o": [
+    "16 + 6",
+    "16 – 6",
+    "16 × 6",
+    "8 + 6"
+   ],
+   "e": "Somar o mesmo número aos dois lados mantém a igualdade."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O vapor de água representa a água em qual estado?",
+   "o": [
+    "Gasoso",
+    "Sólido",
+    "Líquido",
+    "Pastoso"
+   ],
+   "e": "Acima de 100 °C ela é gasosa."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é a primeira fase do ciclo vital?",
+   "o": [
+    "Nascimento",
+    "Reprodução",
+    "Morte",
+    "Crescimento"
+   ],
+   "e": "Depois vêm crescimento, reprodução e morte."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o sucessor de 8.719?",
+   "o": [
+    "8.720",
+    "8.718",
+    "8.729",
+    "8.819"
+   ],
+   "e": "Sucessor é o número + 1."
+  },
+  {
+   "m": "M",
+   "ctx": "Na malha, a figura pintada tem 12 quadradinhos de 2 cm² cada.",
+   "q": "Qual é a área da figura?",
+   "o": [
+    "24 cm²",
+    "24 cm",
+    "14 cm²",
+    "48 cm²"
+   ],
+   "e": "Área = quadradinhos × valor de cada um."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por quantos anos o Brasil foi colônia de Portugal?",
+   "o": [
+    "Mais de 300 anos",
+    "Cerca de 30 anos",
+    "Cerca de 100 anos",
+    "Cerca de 50 anos"
+   ],
+   "e": "De 1500 a 1822."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem cortava o pau-brasil no período pré-colonial?",
+   "o": [
+    "Os indígenas",
+    "Os jesuítas",
+    "Os imperadores",
+    "Os presidentes"
+   ],
+   "e": "Eles recebiam espelhos, miçangas e ferramentas."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o antecessor de 30.000?",
+   "o": [
+    "29.999",
+    "30.001",
+    "29.990",
+    "29.900"
+   ],
+   "e": "Antecessor é o número – 1."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é a diferença entre cadeia e teia alimentar?",
+   "o": [
+    "A teia reúne várias cadeias ligadas",
+    "A cadeia reúne várias teias",
+    "Não há diferença",
+    "A teia só tem plantas"
+   ],
+   "e": "Na teia, um animal pode comer de várias fontes."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Hoje, na escola, Ana ganhou um abraço de consolo da amiga depois de perder o caderno.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Conto do cotidiano",
+    "Notícia",
+    "Receita",
+    "Anúncio"
+   ],
+   "e": "Fatos simples da vida diária."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a área aproximada do Brasil?",
+   "o": [
+    "8,5 milhões de km²",
+    "850 km²",
+    "85 mil km²",
+    "850 milhões de km²"
+   ],
+   "e": "É um país de dimensões continentais."
+  },
+  {
+   "m": "P",
+   "ctx": "Os alunos plantaram mudas ontem.",
+   "q": "Qual palavra da frase é o verbo?",
+   "o": [
+    "plantaram",
+    "alunos",
+    "mudas",
+    "Os"
+   ],
+   "e": "O verbo indica ação."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é o nome do rio que passa por Resende?",
+   "o": [
+    "Paraíba do Sul",
+    "Amazonas",
+    "São Francisco",
+    "Paraguai"
+   ],
+   "e": "Resende fica às suas margens."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em qual região fica o estado de Santa Catarina?",
+   "o": [
+    "Sul",
+    "Sudeste",
+    "Nordeste",
+    "Norte"
+   ],
+   "e": "Santa Catarina é do Sul."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual é o principal papel do Poder Judiciário?",
+   "o": [
+    "Cuidar da justiça e fazer cumprir as leis",
+    "Fazer as leis",
+    "Administrar a cidade",
+    "Escolher o presidente"
+   ],
+   "e": "Juízes atuam em fóruns e tribunais."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é o menor bioma do Brasil?",
+   "o": [
+    "Pantanal",
+    "Amazônia",
+    "Cerrado",
+    "Mata Atlântica"
+   ],
+   "e": "Fica entre Mato Grosso e Mato Grosso do Sul."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "A área mede...",
+   "o": [
+    "o espaço ocupado pela figura",
+    "o contorno",
+    "a altura",
+    "o peso"
+   ],
+   "e": "O perímetro mede o contorno."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "A capivara se alimenta de...",
+   "o": [
+    "plantas",
+    "carne",
+    "insetos",
+    "peixes"
+   ],
+   "e": "Ela é herbívora."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Misture o leite com o chocolate e leve ao fogo baixo, mexendo sempre.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Texto instrucional",
+    "Notícia",
+    "Fábula",
+    "Anúncio"
+   ],
+   "e": "O texto ensina passo a passo, com verbos no imperativo."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é o clima predominante da Caatinga?",
+   "o": [
+    "Semiárido, com pouca chuva",
+    "Polar",
+    "Equatorial úmido",
+    "Subtropical frio"
+   ],
+   "e": "Só existe no Brasil."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital de Rondônia?",
+   "o": [
+    "Porto Velho",
+    "Rio Branco",
+    "Boa Vista",
+    "Palmas"
+   ],
+   "e": "Rondônia fica no Norte."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Era uma vez um ratinho que salvou um leão preso na rede de um caçador.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Fábula",
+    "Notícia",
+    "Receita",
+    "Bilhete"
+   ],
+   "e": "Animais que agem como gente."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é o papel dos herbívoros em uma cadeia alimentar?",
+   "o": [
+    "Consumidores primários",
+    "Produtores",
+    "Decompositores",
+    "Consumidores terciários"
+   ],
+   "e": "Eles comem plantas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é a função da reprodução para uma espécie?",
+   "o": [
+    "Garantir que ela continue existindo",
+    "Evitar a morte de um indivíduo",
+    "Produzir energia",
+    "Fazer fotossíntese"
+   ],
+   "e": "Gera novos descendentes."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital de Alagoas?",
+   "o": [
+    "Maceió",
+    "Aracaju",
+    "Recife",
+    "Salvador"
+   ],
+   "e": "Fica no Nordeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "A irrigação de uma lavoura é uma forma de modificar a paisagem por...",
+   "o": [
+    "ação humana",
+    "força da natureza",
+    "terremoto",
+    "chuva"
+   ],
+   "e": "Desmatamento, construção e irrigação são ações humanas."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "O que significa dizer que o Brasil era uma \"colônia\"?",
+   "o": [
+    "Era explorado por outro país",
+    "Era totalmente livre",
+    "Tinha rei próprio",
+    "Não tinha habitantes"
+   ],
+   "e": "O Brasil pertencia a Portugal."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em qual poder o prefeito trabalha?",
+   "o": [
+    "Executivo",
+    "Legislativo",
+    "Judiciário",
+    "Eleitoral"
+   ],
+   "e": "Ele administra o município."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma escola tem 88 alunos e quer formar grupos de 8.",
+   "q": "Quantos grupos serão formados?",
+   "o": [
+    "11",
+    "12",
+    "10",
+    "80"
+   ],
+   "e": "Agrupamento: 88 ÷ 8 = 11."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Gelo e neve representam a água em qual estado?",
+   "o": [
+    "Sólido",
+    "Líquido",
+    "Gasoso",
+    "Pastoso"
+   ],
+   "e": "Abaixo de 0 °C a água é sólida."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Que tipo de energia as plantas usam na fotossíntese?",
+   "o": [
+    "A luz do Sol",
+    "O calor do fogo",
+    "A eletricidade",
+    "O vento"
+   ],
+   "e": "Elas precisam de luz."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é a finalidade de um convite?",
+   "o": [
+    "Chamar alguém para um evento",
+    "Ensinar uma receita",
+    "Vender um produto",
+    "Reclamar de um problema"
+   ],
+   "e": "Ele deve trazer o quê, data, horário e local."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes animais é ave?",
+   "o": [
+    "Arara-azul",
+    "Capivara",
+    "Cobra",
+    "Sapo"
+   ],
+   "e": "Aves têm penas e bico."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma escola tem 35 alunos e quer formar grupos de 5.",
+   "q": "Quantos grupos serão formados?",
+   "o": [
+    "7",
+    "8",
+    "6",
+    "30"
+   ],
+   "e": "Agrupamento: 35 ÷ 5 = 7."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Fauna é o conjunto de...",
+   "o": [
+    "animais de um lugar",
+    "plantas de um lugar",
+    "rios de um lugar",
+    "pessoas de um lugar"
+   ],
+   "e": "O conjunto de plantas é a flora."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital de Mato Grosso do Sul?",
+   "o": [
+    "Campo Grande",
+    "Cuiabá",
+    "Goiânia",
+    "Brasília"
+   ],
+   "e": "Fica no Centro-Oeste."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é o nome de um jacaré típico do Pantanal?",
+   "o": [
+    "Jacaré-do-pantanal",
+    "Jacaré-do-Ártico",
+    "Jacaré-do-deserto",
+    "Jacaré-das-neves"
+   ],
+   "e": "É um réptil típico da região."
+  },
+  {
+   "m": "P",
+   "ctx": "\"— Vou colocar o guarda-chuva na mochila — disse Rita, olhando o céu cheio de nuvens escuras.\"",
+   "q": "Por que Rita pegou o guarda-chuva?",
+   "o": [
+    "Porque achou que ia chover",
+    "Porque faria calor",
+    "Porque ia viajar",
+    "Porque era aniversário"
+   ],
+   "e": "As nuvens escuras são a pista."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem o sufixo -osa?",
+   "o": [
+    "corajosa",
+    "beleza",
+    "rapidez",
+    "viagem"
+   ],
+   "e": "Corajosa vem de coragem."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 8.066 – 1.389?",
+   "o": [
+    "6.677",
+    "6.687",
+    "6.577",
+    "7.677"
+   ],
+   "e": "Use o empréstimo quando o algarismo de cima for menor."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual destas palavras está no plural?",
+   "o": [
+    "pães",
+    "pão",
+    "animal",
+    "rei"
+   ],
+   "e": "O plural indica mais de um."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "O que é um produtor?",
+   "o": [
+    "Quem fabrica ou cultiva o produto",
+    "Quem compra o produto",
+    "Quem usa o produto",
+    "Quem entrega o produto"
+   ],
+   "e": "O consumidor é quem usa."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 20 + (2 × 9)?",
+   "o": [
+    "38",
+    "198",
+    "49",
+    "31"
+   ],
+   "e": "Primeiro resolva o parêntese, depois multiplicação e divisão."
+  },
+  {
+   "m": "P",
+   "ctx": "Meu irmão comeu o bolo.",
+   "q": "Qual é o verbo da frase?",
+   "o": [
+    "comeu",
+    "Meu irmão",
+    "comeu o bolo",
+    "a"
+   ],
+   "e": "O verbo indica a ação."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Como podemos conferir se uma notícia é falsa?",
+   "o": [
+    "Vendo a fonte, a data e se outros veículos confiáveis publicaram",
+    "Pelo número de curtidas",
+    "Pelo tamanho do texto",
+    "Pela cor da página"
+   ],
+   "e": "Conferir evita fake news."
+  },
+  {
+   "m": "C",
+   "ctx": "Sol → capim → gafanhoto → sapo → cobra",
+   "q": "Na cadeia alimentar acima, quem é o consumidor primário?",
+   "o": [
+    "O gafanhoto",
+    "O capim",
+    "A cobra",
+    "O sapo"
+   ],
+   "e": "O consumidor primário é o herbívoro."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual região brasileira não tem litoral?",
+   "o": [
+    "Centro-Oeste",
+    "Nordeste",
+    "Sul",
+    "Sudeste"
+   ],
+   "e": "Todas as outras têm costa."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual edifício da Praça dos Três Poderes abriga o Poder Judiciário?",
+   "o": [
+    "Supremo Tribunal Federal",
+    "Palácio do Planalto",
+    "Congresso Nacional",
+    "Prefeitura"
+   ],
+   "e": "O STF cuida da justiça no país."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Repórter: Qual é o seu esporte favorito? Aluno: O futebol.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Entrevista",
+    "Notícia",
+    "Fábula",
+    "Receita"
+   ],
+   "e": "Perguntas e respostas entre duas pessoas."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes é um bairro de Resende?",
+   "o": [
+    "Manejo",
+    "Copacabana",
+    "Ipanema",
+    "Leblon"
+   ],
+   "e": "Manejo, Paraíso e Cidade Alegria são bairros de Resende."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quem trabalha no Poder Judiciário?",
+   "o": [
+    "Juízes",
+    "Vereadores",
+    "Deputados",
+    "Presidentes"
+   ],
+   "e": "Eles atuam em fóruns e tribunais."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é monossílaba?",
+   "o": [
+    "pé",
+    "mesa",
+    "lápis",
+    "janela"
+   ],
+   "e": "Monossílaba tem uma sílaba."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual dos grupos abaixo ajuda a reciclar a matéria dos seres mortos?",
+   "o": [
+    "Fungos",
+    "Produtores",
+    "Herbívoros",
+    "Carnívoros"
+   ],
+   "e": "Os decompositores fazem essa reciclagem."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destas é uma necessidade básica de todos os seres vivos?",
+   "o": [
+    "Água",
+    "Videogame",
+    "Dinheiro",
+    "Televisão"
+   ],
+   "e": "Também precisam de ar e alimento."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é uma consequência do crescimento rápido das cidades?",
+   "o": [
+    "Falta de moradia e desemprego",
+    "Menos trânsito",
+    "Menos periferia",
+    "Mais campos"
+   ],
+   "e": "As periferias crescem."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é polissílaba?",
+   "o": [
+    "geladeira",
+    "sol",
+    "pé",
+    "cão"
+   ],
+   "e": "Tem 4 ou mais sílabas."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes grupos NÃO faz parte dos vertebrados?",
+   "o": [
+    "Insetos",
+    "Peixes",
+    "Aves",
+    "Mamíferos"
+   ],
+   "e": "Os insetos são invertebrados."
+  },
+  {
+   "m": "H",
+   "ctx": "\"O rei de Portugal dividiu o Brasil em 14 faixas de terra e entregou cada uma a um nobre.\"",
+   "q": "O que essa decisão criou?",
+   "o": [
+    "As Capitanias Hereditárias",
+    "O Governo-Geral",
+    "A Lei Áurea",
+    "A República"
+   ],
+   "e": "Foi em 1534."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é proparoxítona?",
+   "o": [
+    "lâmpada",
+    "café",
+    "lápis",
+    "casa"
+   ],
+   "e": "Sempre leva acento."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Ana chegou ofegante, com o rosto vermelho e a mochila balançando.\"",
+   "q": "Que informação podemos descobrir pelas pistas?",
+   "o": [
+    "Ela veio correndo",
+    "Ela estava dormindo",
+    "Ela estava no cinema",
+    "Ela viajou de avião"
+   ],
+   "e": "O sentido implícito aparece pelas pistas do texto."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em qual região fica o estado de Minas Gerais?",
+   "o": [
+    "Sudeste",
+    "Nordeste",
+    "Sul",
+    "Centro-Oeste"
+   ],
+   "e": "Minas Gerais é do Sudeste."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "No número 83.462, qual é o valor relativo do algarismo 8 que está na ordem das dezena de milhars?",
+   "o": [
+    "80.000",
+    "8",
+    "80",
+    "8.000"
+   ],
+   "e": "O valor relativo depende da posição: 8 × 10.000."
+  },
+  {
+   "m": "C",
+   "ctx": "Sol → capim → gafanhoto → sapo → cobra",
+   "q": "Na cadeia alimentar acima, quem é o último consumidor?",
+   "o": [
+    "A cobra",
+    "O capim",
+    "O gafanhoto",
+    "O Sol"
+   ],
+   "e": "Ela se alimenta do sapo."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Na zona rural, a população é...",
+   "o": [
+    "menor e mais espalhada",
+    "maior e concentrada",
+    "sempre igual à da cidade",
+    "inexistente"
+   ],
+   "e": "No campo há mais contato com a natureza."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "De quanto em quanto tempo acontecem as eleições para presidente?",
+   "o": [
+    "A cada 4 anos",
+    "A cada 2 anos",
+    "A cada 10 anos",
+    "A cada 8 anos"
+   ],
+   "e": "O presidente é escolhido pelo voto do povo."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Qual foi uma consequência das Grandes Navegações?",
+   "o": [
+    "Um novo mapa do mundo e novas rotas",
+    "O fim do comércio",
+    "O fim da escrita",
+    "A volta ao escambo"
+   ],
+   "e": "Também houve troca de produtos e colonização."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes seres vivos NÃO é um vertebrado?",
+   "o": [
+    "Minhoca",
+    "Peixe",
+    "Sapo",
+    "Cobra"
+   ],
+   "e": "A minhoca é invertebrada."
+  },
+  {
+   "m": "P",
+   "ctx": "O gato subiu no telhado.",
+   "q": "A palavra \"O\" é um...",
+   "o": [
+    "artigo definido",
+    "artigo indefinido",
+    "pronome pessoal",
+    "verbo"
+   ],
+   "e": "Indica algo específico."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é o nome científico do reino dos fungos?",
+   "o": [
+    "Fungi",
+    "Plantae",
+    "Animalia",
+    "Bacteria"
+   ],
+   "e": "Cogumelos e bolores são fungos."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 1.830 ÷ 2?",
+   "o": [
+    "915",
+    "925",
+    "905",
+    "1.830"
+   ],
+   "e": "Confira: 915 × 2 = 1.830."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra é um adjetivo?",
+   "o": [
+    "corajoso",
+    "coragem",
+    "correr",
+    "manhã"
+   ],
+   "e": "Adjetivo dá qualidade."
+  },
+  {
+   "m": "H",
+   "ctx": "João queria trocar queijo por sapatos, mas o sapateiro não queria queijo.",
+   "q": "Que problema do escambo essa situação mostra?",
+   "o": [
+    "Os dois lados precisam querer o que o outro tem",
+    "O queijo era mais valioso que ouro",
+    "O escambo é proibido por lei",
+    "A troca sempre dá certo"
+   ],
+   "e": "No escambo, os interesses precisam coincidir."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual elemento da narrativa responde à pergunta \"quem?\"",
+   "o": [
+    "Personagem",
+    "Tempo",
+    "Espaço",
+    "Enredo"
+   ],
+   "e": "Personagens participam da história."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Por que os grupos nômades mudavam de lugar com frequência?",
+   "o": [
+    "Para procurar alimento",
+    "Porque gostavam de viajar de barco",
+    "Porque trabalhavam em fábricas",
+    "Porque pagavam aluguel"
+   ],
+   "e": "Eles seguiam a caça, a pesca e os frutos."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Quando uma palavra tem vários sentidos, dependendo do contexto, ela é...",
+   "o": [
+    "polissêmica",
+    "antônima",
+    "derivada",
+    "oxítona"
+   ],
+   "e": "Polissemia: vários sentidos para a mesma palavra."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual é a diferença entre produtor e consumidor?",
+   "o": [
+    "O produtor faz o próprio alimento; o consumidor se alimenta de outros seres",
+    "O produtor come carne; o consumidor, plantas",
+    "Não há diferença",
+    "O produtor vive na água"
+   ],
+   "e": "As plantas são produtoras."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual é a capital do Tocantins?",
+   "o": [
+    "Palmas",
+    "Goiânia",
+    "Belém",
+    "Cuiabá"
+   ],
+   "e": "O Tocantins fica no Norte."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em que data comemoramos a Proclamação da República?",
+   "o": [
+    "15 de novembro",
+    "7 de setembro",
+    "21 de abril",
+    "22 de abril"
+   ],
+   "e": "Foi em 1889."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o plural de \"papel\"?",
+   "o": [
+    "papéis",
+    "papeles",
+    "papels",
+    "papelzes"
+   ],
+   "e": "Cada final tem uma regra de plural."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Quais animais foram trazidos de fora e mudaram o ambiente?",
+   "o": [
+    "Boi e cavalo",
+    "Onça e capivara",
+    "Tuiuiú e ema",
+    "Sucuri e jacaré"
+   ],
+   "e": "Eram animais europeus."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes é um ponto cardeal?",
+   "o": [
+    "Leste",
+    "Centro",
+    "Litoral",
+    "Norte-Sul"
+   ],
+   "e": "Os pontos cardeais são Norte, Sul, Leste e Oeste."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Onde ficam os Círculos Polares Ártico e Antártico?",
+   "o": [
+    "Nos extremos norte e sul da Terra",
+    "Na linha do Equador",
+    "No centro do Brasil",
+    "Em volta do Pantanal"
+   ],
+   "e": "Ali o clima é polar."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Onde D. Pedro proclamou a Independência?",
+   "o": [
+    "Às margens do riacho Ipiranga",
+    "No Palácio do Planalto",
+    "Em Salvador",
+    "Em Lisboa"
+   ],
+   "e": "O local fica em São Paulo."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes é um animal onívoro?",
+   "o": [
+    "Lobo-guará",
+    "Vaca",
+    "Onça",
+    "Capivara"
+   ],
+   "e": "Ele come frutas e pequenos animais."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Ingredientes: 2 ovos, 1 xícara de açúcar. Modo de preparo: bata tudo.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Receita",
+    "Entrevista",
+    "Notícia",
+    "Bilhete"
+   ],
+   "e": "Tem ingredientes e modo de preparo."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 28 + (8 × 3)?",
+   "o": [
+    "52",
+    "108",
+    "227",
+    "39"
+   ],
+   "e": "Primeiro resolva o parêntese, depois multiplicação e divisão."
+  },
+  {
+   "m": "M",
+   "ctx": "Uma caixa tem 9 lápis. Isa comprou 4 caixas.",
+   "q": "Quantos lápis Isa comprou?",
+   "o": [
+    "36",
+    "13",
+    "45",
+    "32"
+   ],
+   "e": "Parcelas iguais: 4 × 9."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Quais bairros fazem parte de um município?",
+   "o": [
+    "Partes da cidade com casas, ruas, escolas e comércio",
+    "Países vizinhos",
+    "Oceanos",
+    "Continentes"
+   ],
+   "e": "Cada bairro tem suas características."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Para onde foi a família imperial depois da Proclamação da República?",
+   "o": [
+    "Para a Europa",
+    "Para a África",
+    "Para a Ásia",
+    "Para os Estados Unidos"
+   ],
+   "e": "Eles deixaram o país."
+  },
+  {
+   "m": "C",
+   "ctx": "Sol → capim → gafanhoto → sapo → cobra",
+   "q": "Se todos os gafanhotos desaparecerem, o que acontece com o sapo?",
+   "o": [
+    "Fica sem alimento",
+    "Nada muda",
+    "Vira produtor",
+    "Faz fotossíntese"
+   ],
+   "e": "Cada elo depende do anterior."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual instituição militar fica em Resende?",
+   "o": [
+    "AMAN",
+    "Marinha do Brasil",
+    "NASA",
+    "ONU"
+   ],
+   "e": "A AMAN forma oficiais do Exército."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual é o feminino de \"juiz\"?",
+   "o": [
+    "juíza",
+    "juizas",
+    "juizesa",
+    "juizinha"
+   ],
+   "e": "Cada palavra tem seu feminino."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes é um exemplo de paisagem humanizada?",
+   "o": [
+    "Uma cidade com ruas e prédios",
+    "Uma floresta virgem",
+    "Um rio sem ninguém por perto",
+    "Uma montanha nativa"
+   ],
+   "e": "O ser humano transformou o ambiente."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual ave é ameaçada pelo tráfico e pela destruição do seu ambiente?",
+   "o": [
+    "Arara-azul",
+    "Pardal",
+    "Galinha",
+    "Pombo"
+   ],
+   "e": "É uma ave vistosa e muito visada."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Por que os seres vivos precisam se alimentar?",
+   "o": [
+    "Para obter energia",
+    "Para ficar mais pesados",
+    "Para virar minerais",
+    "Para brilhar"
+   ],
+   "e": "O alimento fornece energia."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos s há em 3 min?",
+   "o": [
+    "180",
+    "1800",
+    "18",
+    "240"
+   ],
+   "e": "1 min = 60 s."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual elemento da narrativa responde à pergunta \"onde?\"",
+   "o": [
+    "Espaço",
+    "Tempo",
+    "Narrador",
+    "Conflito"
+   ],
+   "e": "Espaço é o lugar da história."
+  },
+  {
+   "m": "M",
+   "ctx": "Sequência: 27.000, 24.000, 21.000, 18.000...",
+   "q": "Qual é o próximo número da sequência?",
+   "o": [
+    "15.000",
+    "18.000",
+    "12.000",
+    "21.000"
+   ],
+   "e": "A regra é subtrair de 3.000 em 3.000."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Na metamorfose completa, a lagarta é a fase...",
+   "o": [
+    "larva",
+    "pupa",
+    "adulta",
+    "de ovo"
+   ],
+   "e": "Ovo → larva → pupa → adulto."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que forma as nuvens?",
+   "o": [
+    "Gotinhas de água do vapor que esfriou",
+    "Fumaça de fábricas",
+    "Algodão natural",
+    "Gelo de geladeira"
+   ],
+   "e": "Isso se chama condensação."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quanto é 1.636 ÷ 4?",
+   "o": [
+    "409",
+    "419",
+    "399",
+    "818"
+   ],
+   "e": "Confira: 409 × 4 = 1.636."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Que nome o país recebeu a partir da Independência, em 1822?",
+   "o": [
+    "Império do Brasil",
+    "Estados Unidos do Brasil",
+    "República Federativa do Brasil",
+    "Pindorama"
+   ],
+   "e": "Depois vieram outros nomes."
+  },
+  {
+   "m": "H",
+   "ctx": "\"Grandes áreas de Mata Atlântica foram derrubadas para plantar apenas cana.\"",
+   "q": "Que tipo de impacto da colonização é esse?",
+   "o": [
+    "Ambiental",
+    "Cultural",
+    "Religioso",
+    "Linguístico"
+   ],
+   "e": "Houve desmatamento e monocultura."
+  },
+  {
+   "m": "P",
+   "ctx": "A nuvem escura cobriu o céu.",
+   "q": "Qual palavra é o adjetivo?",
+   "o": [
+    "escura",
+    "nuvem",
+    "cobriu",
+    "céu"
+   ],
+   "e": "Escura dá característica à nuvem."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Qual destes seres vivos é um consumidor?",
+   "o": [
+    "Vaca",
+    "Capim",
+    "Alga",
+    "Cogumelo"
+   ],
+   "e": "Consumidores comem outros seres vivos."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Como eram chamados os africanos escravizados que já falavam português?",
+   "o": [
+    "Ladinos",
+    "Boçais",
+    "Crioulos",
+    "Regentes"
+   ],
+   "e": "Os nascidos no Brasil eram crioulos."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "Onde as plantas fazem fotossíntese principalmente?",
+   "o": [
+    "Nas folhas",
+    "Nas raízes",
+    "No caule seco",
+    "Na semente"
+   ],
+   "e": "As folhas captam a luz."
+  },
+  {
+   "m": "M",
+   "ctx": "Sequência: 1.750, 2.000, 2.250, 2.500...",
+   "q": "Qual é o próximo número da sequência?",
+   "o": [
+    "2.750",
+    "3.000",
+    "2.500",
+    "3.250"
+   ],
+   "e": "A regra é somar de 250 em 250."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Em qual região fica o estado onde moramos?",
+   "o": [
+    "Sudeste",
+    "Sul",
+    "Norte",
+    "Nordeste"
+   ],
+   "e": "Moramos no Rio de Janeiro."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que acontece com os restos de animais mortos?",
+   "o": [
+    "São decompostos por fungos e bactérias",
+    "Viram plantas direto",
+    "Viram pedra",
+    "Somem sem deixar nada"
+   ],
+   "e": "Eles devolvem nutrientes ao solo."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos min há em 7 h?",
+   "o": [
+    "420",
+    "4200",
+    "42",
+    "480"
+   ],
+   "e": "1 h = 60 min."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Quantos segundos tem 1 minuto?",
+   "o": [
+    "60",
+    "100",
+    "30",
+    "24"
+   ],
+   "e": "1 minuto = 60 segundos."
+  },
+  {
+   "m": "C",
+   "ctx": "",
+   "q": "O que os mamíferos têm em comum?",
+   "o": [
+    "Pelos e filhotes que mamam leite",
+    "Penas e bico",
+    "Escamas e nadadeiras",
+    "Casulo e asas"
+   ],
+   "e": "Os mamíferos respiram por pulmões."
+  },
+  {
+   "m": "P",
+   "ctx": "\"Senhor prefeito, escrevo para reclamar da falta de iluminação na rua da escola e peço providências.\"",
+   "q": "Qual é o gênero do trecho?",
+   "o": [
+    "Carta de reclamação",
+    "Bilhete",
+    "Anúncio",
+    "Fábula"
+   ],
+   "e": "Relata um problema e pede solução, em linguagem formal."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual destes recursos é não renovável?",
+   "o": [
+    "Carvão mineral",
+    "Vento",
+    "Água",
+    "Plantas"
+   ],
+   "e": "Leva milhões de anos para se formar."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual onomatopeia imita um trovão?",
+   "o": [
+    "CABRUM",
+    "AU AU",
+    "TOC TOC",
+    "ATCHIM"
+   ],
+   "e": "Imita um barulho forte do céu."
+  },
+  {
+   "m": "G",
+   "ctx": "",
+   "q": "Qual indústria famosa dá empregos em Resende?",
+   "o": [
+    "Volkswagen",
+    "Petrobras",
+    "Embraer",
+    "Vale"
+   ],
+   "e": "Também há comércio e unidades militares."
+  },
+  {
+   "m": "M",
+   "ctx": "",
+   "q": "Qual é o quádruplo de 19?",
+   "o": [
+    "76",
+    "23",
+    "95",
+    "86"
+   ],
+   "e": "Quádruplo é multiplicar por 4."
+  },
+  {
+   "m": "P",
+   "ctx": "",
+   "q": "Qual palavra tem hiato?",
+   "o": [
+    "poeta",
+    "caixa",
+    "mãe",
+    "pai"
+   ],
+   "e": "Po-e-ta tem vogais em sílabas separadas."
+  },
+  {
+   "m": "H",
+   "ctx": "",
+   "q": "Em qual cidade o Marechal Deodoro proclamou a República?",
+   "o": [
+    "Rio de Janeiro",
+    "Brasília",
+    "Salvador",
+    "São Paulo"
+   ],
+   "e": "Foi em 15 de novembro de 1889."
+  }
+ ]
+}
